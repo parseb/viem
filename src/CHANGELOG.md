@@ -1,5 +1,11 @@
 # viem
 
+## 2.20.2
+
+### Patch Changes
+
+- [#2660](https://github.com/wevm/viem/pull/2660) [`2813fbd`](https://github.com/wevm/viem/commit/2813fbd218a54c99d92f1e29e5ca1b2961a06071) Thanks [@RobbyUitbeijerse](https://github.com/RobbyUitbeijerse)! - Adjusted sophon native token symbol.
+
 ## 2.20.1
 
 ### Patch Changes
